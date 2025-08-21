@@ -186,7 +186,6 @@ body {
     border-left: none;
     border-right: none;
 
-    
 }
 /* Add Media Query for responsiveness */
 @media (max-width: 768px) {
